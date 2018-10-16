@@ -14,9 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_z2_row.mk
-
-COMMON_LUNCH_CHOICES := \
-    lineage_z2_row-userdebug \
-    lineage_z2_row-user \
-    lineage_z2_row-eng
+    $(LOCAL_DIR)/aosp_z2_row.mk
